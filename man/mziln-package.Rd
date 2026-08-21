@@ -2,7 +2,7 @@
 \alias{mziln-package}
 \docType{package}
 \title{
-Modelling Compositional Data With Zero Values
+Regression For Compositional Data With Zero Values
 }
 
 \description{
