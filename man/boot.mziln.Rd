@@ -72,6 +72,6 @@ y <- y / rowSums(y)
 ind <- sample(150, 10)
 for ( k in ind )  y[k, sample(3, 1)] <- 0
 y <- y / rowSums(y)
-mod <- boot.mziln(y, x, R = 500)
+mod <- boot.mziln(y, x, R = 100)
 }
 

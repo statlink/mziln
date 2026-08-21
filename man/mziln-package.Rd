@@ -15,7 +15,7 @@ is implemented for compositional data with zero values present.
 Package: \tab mziln\cr
 Type: \tab Package\cr
 Version: \tab 1.0 \cr
-Date: \tab 2026-08-20 \cr
+Date: \tab 2026-08-21 \cr
 }
 }
 
