@@ -6,7 +6,7 @@ Regression For Compositional Data With Zero Values
 }
 
 \description{
-Description: A multivariate zero inflated logistic normal regression model
+A multivariate zero inflated logistic normal regression model
 is implemented for compositional data with zero values present.
 }
 
@@ -28,7 +28,7 @@ Michail Tsagris <mtsagris@uoc.gr>.
 }
 
 \references{
-Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'malley A. J. and Li H. (2018).
+Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'Malley A. J. and Li H. (2018).
 Conditional regression based on a multivariate zero-inflated logistic-normal model for
 microbiome relative abundance data.
 Statistics in Biosciences, 10(3): 587--608.

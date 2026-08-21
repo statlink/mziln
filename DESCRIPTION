@@ -9,7 +9,7 @@ Maintainer: Michail Tsagris <mtsagris@uoc.gr>
 Depends: R (>= 4.0)
 Imports: rangen, Rfast, stats
 Suggests: Compositional, Rfast2
-Description: A multivariate zero inflated logistic normal regression model is implemented for compositional data with zero values present. The relevant paper is Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'malley A. J. and Li H. (2018). "Conditional regression based on a multivariate zero-inflated logistic-normal model for microbiome relative abundance data", <doi:10.1007/s12561-018-9219-2>.
+Description: A multivariate zero inflated logistic normal regression model is implemented for compositional data with zero values present. The relevant paper is Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'Malley A. J. and Li H. (2018). "Conditional regression based on a multivariate zero-inflated logistic-normal model for microbiome relative abundance data", <doi:10.1007/s12561-018-9219-2>.
 License: GPL (>= 2)
 
 

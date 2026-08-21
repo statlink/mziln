@@ -42,7 +42,7 @@ The fitted or the predicted values (if xnew is not NULL).
 }
 
 \references{
-Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'malley A. J. and Li H. (2018).
+Li Z., Lee K., Karagas M. R., Madan J. C., Hoen A. G., O'Malley A. J. and Li H. (2018).
 Conditional regression based on a multivariate zero-inflated logistic-normal model for
 microbiome relative abundance data.
 Statistics in Biosciences, 10(3): 587--608.
