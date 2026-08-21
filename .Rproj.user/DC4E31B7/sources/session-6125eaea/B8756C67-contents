@@ -1,6 +1,6 @@
 Package: mziln
 Type: Package
-Title: Regression for Compositional Data With Zero Values
+Title: Regression for Compositional Data with Zero Values
 Version: 1.0
 Date: 2026-08-21
 Authors@R: person("Michail", "Tsagris", role = c("aut", "cre"), email = "mtsagris@uoc.gr")
