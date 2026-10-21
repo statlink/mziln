@@ -2,7 +2,7 @@
 \alias{mziln-package}
 \docType{package}
 \title{
-Regression for Compositional Data with Zero Values
+LASSO Compositional Data Regression
 }
 
 \description{
