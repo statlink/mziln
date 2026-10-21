@@ -1,8 +1,0 @@
-#useDynLib(MXM, .registration = TRUE)
-
-importFrom("rangen", Sample.int)
-importFrom("Rfast", rowsums)
-importFrom("stats", cov, model.matrix)
-
-exportPattern("^[[:alpha:]]+")
-exportPattern("^[^\\.]")
